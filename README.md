@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi I'm Desh
+##Contact
+Feel free to reach out via LinkedIn, Email or Nintendo Friend code (SW-5952-6305-9991)
 
 <!--
 **Deshenfektion/Deshenfektion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
